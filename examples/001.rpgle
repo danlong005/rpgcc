@@ -1,0 +1,4 @@
+DSPLY '';
+
+*INLR = *ON;
+RETURN;
